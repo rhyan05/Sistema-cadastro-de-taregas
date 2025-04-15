@@ -1,5 +1,3 @@
-Aqui está um exemplo de `README.md` que você pode usar para o seu projeto "Sistema Cadastro de Tarefas":
-
 # Sistema de Cadastro de Tarefas
 
 Um sistema simples de cadastro de tarefas desenvolvido em PHP.
